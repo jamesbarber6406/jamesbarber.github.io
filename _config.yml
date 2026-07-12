@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: James Barber # your name (or website title) here
+logo: "/images/profile_pic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Product and analytics professional with a background in chemistry and scientific software workflows. I enjoy learning new technologies and applying them to real-world problems I encounter in my own hobbies. This portfolio showcases projects that use programming, data analytics, and automation to build tools I've actually used in my personal life.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/james-barber-399b8725a/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
