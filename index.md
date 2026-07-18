@@ -2,34 +2,29 @@
 
 ---
 
-### Category Name 1 
+### Technical Skills
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<span class="badge">Product Design</span>
+<span class="badge">Data Analysis</span>
+<span class="badge">User Experience</span>
+<span class="badge">Python</span>
+<span class="badge">Pandas</span>
+<span class="badge">Google Sheets</span>
+<span class="badge">Excel</span>
+<span class="badge">SQL</span>
 
 ---
 
-### Category Name 2
+### Featured Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<div class="project-card">
+  <img src="https://raw.githubusercontent.com/jamesbarber6406/workout-tracking-app/main/Screenshots/Leaderboard.png" alt="Workout App Leaderboard">
+  <h3>Workout Challenge Leaderboard</h3>
+  <p>Created an app-style Google Sheet which tracked user's exercises to determine approximately who lifted more. Scores were determined by dividing the weight lifted per set by the user's bodyweight (e.g. 10reps * 100lbs / 180lbs). After 3 months, the losers had to call the winner "Sensei" (translates to "Teacher" or "Master") for 3 months, or until the next challenge concluded and a new Sensei was crowned. Competitor names were scrambled for anonymity. </p>
+  <p>
+    <span class="badge">Google Sheets</span>
+    <span class="badge">Google Script</span>
+    <span class="badge">Data Analysis</span>
+  </p>
+  <p><a href="workout-app.md">View project →</a></p>
+</div>
