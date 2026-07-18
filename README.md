@@ -1,6 +1,7 @@
 ## Developer Portfolio Landing Page Template
 
-This repo was downloaded as a whole to serve as a template for a Github page. The following information is provided by the developers as a guide.
+This repo was downloaded as a template to serve as a Github landing page. The following information is provided by the developers as a guide.
+___
 
 ### Introduction
 
